@@ -1,8 +1,7 @@
 # RISC-V Assembler and Simulator
 
-- This project includes a RISC-V assembler and simulator.
-- They are written in **Python 3.13**.
-- The framework implemented here is for **Python users on Linux or Windows only**.
+- The project is a RISC-V assembler and simulator.
+- The framework implemented is for **Linux or Windows only**.
 
 ---
 
